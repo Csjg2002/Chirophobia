@@ -15,25 +15,18 @@ It was made for the 32 Bit Game Jam 2022 hosted on Itch.Io
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/images/hLb65h.png" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/images/hLbgza.png" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/images/hLbBa2.png" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://imgpile.com/images/hLbW24.png" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
-<br />
-<br />
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
-<br />
-<br />
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
 </p>
 
 <!--
