@@ -14,6 +14,14 @@ I was the solo programmer for this project.
 
 <br />
 
+<h2>In-game Clips:</h2>
+
+<p align="center">
+<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<br />
+<br />
+</p>
+
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
