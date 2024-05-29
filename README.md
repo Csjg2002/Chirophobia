@@ -10,7 +10,7 @@ Chirophobia is a PSX FPS survival horror game inspired by horror greats like Sil
 
 It was made for the 32 Bit Game Jam 2022 hosted on Itch.Io.
 
-I was the solo programmer for this programmer.
+I was the solo programmer for this project.
 
 <br />
 
