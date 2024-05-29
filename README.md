@@ -4,14 +4,17 @@
  ### [YouTube Walkthrough](https://www.youtube.com/watch?v=LdvSE-3rIU8&t=280s&ab_channel=Csjg2002)
 
 <h2>Description</h2>
+<p>
 One nameless survivor will face the foul creatures of an eldritch apocalypse alone...
-
+</p>
+<p>
 Chirophobia is a PSX FPS survival horror game inspired by horror greats like Silent Hill, Resident Evil, Cry Of Fear, Afraid Of Monsters & Lost In Vivo. 
-
+</p>
+<p>
 It was made for the 32 Bit Game Jam 2022 hosted on Itch.Io.
-
+</p>
+<p>
 I was the solo programmer for this project.
-
 <br />
 
 <h2>In-game Clips:</h2>
