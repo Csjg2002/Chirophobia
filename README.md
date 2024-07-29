@@ -23,6 +23,12 @@ I was the solo programmer for this project.
 <img src="https://github.com/user-attachments/assets/26bdfef9-0170-4a3e-8220-cf110018fbd1" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
+<img src="https://github.com/user-attachments/assets/e2827a36-7d76-43f1-9d36-9467819d139e" height="80%" width="80%" alt="Chirophobia"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<br />
+<br />
 </p>
 
 <h2>In-game Screenshots:</h2>
