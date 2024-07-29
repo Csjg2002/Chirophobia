@@ -26,7 +26,7 @@ I was the solo programmer for this project.
 <img src="https://github.com/user-attachments/assets/e2827a36-7d76-43f1-9d36-9467819d139e" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://github.com/user-attachments/assets/3f508b76-d188-4466-8838-ab540bd3f3d8" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
 </p>
