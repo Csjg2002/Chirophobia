@@ -20,7 +20,7 @@ I was the solo programmer for this project.
 <h2>In-game Clips:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Chirophobia"/>
+<img src="https://github.com/user-attachments/assets/f654d159-1629-48d8-a64c-3985062d4367" height="80%" width="80%" alt="Chirophobia"/>
 <br />
 <br />
 </p>
