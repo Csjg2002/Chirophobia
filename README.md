@@ -1,7 +1,7 @@
 <h1>Chirophobia</h1>
 
 ### [Itch.Io Page](https://evernightstudios.itch.io/chirophobia)
- ### [YouTube Walkthrough](https://www.youtube.com/watch?v=LdvSE-3rIU8&t=280s&ab_channel=Csjg2002)
+### [YouTube Walkthrough](https://www.youtube.com/watch?v=LdvSE-3rIU8&t=280s&ab_channel=Csjg2002)
 
 <h2>Description</h2>
 <p>
