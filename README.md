@@ -5,13 +5,10 @@
 
 <h2>Description</h2>
 <p>
-One nameless survivor will face the foul creatures of an eldritch apocalypse alone...
+Chirophobia is a PSX-inspired FPS survival horror game, where one nameless survivor faces the monstrous horrors of an eldritch apocalypse.
 </p>
 <p>
-Chirophobia is a PSX FPS survival horror game inspired by horror greats like Silent Hill, Resident Evil, Cry Of Fear, Afraid Of Monsters & Lost In Vivo. 
-</p>
-<p>
-Developed in just two weeks for the 32-Bit Game Jam 2022 on Itch.io, this project further advanced my Unreal Engine blueprint skills. As the sole programmer, I was responsible for everything from coding the gameplay mechanics to implementing the audio and AI, taking my expertise in game development to the next level.
+Drawing influence from iconic horror titles like Silent Hill, Resident Evil, Cry of Fear, Afraid of Monsters, and Lost in Vivo, the game was developed in just two weeks for the 32-Bit Game Jam 2022 on Itch.io. This project greatly advanced my Unreal Engine blueprint skills. As the sole programmer, I was responsible for everything from coding the gameplay mechanics to implementing audio and AI, pushing the limits of my development expertise.
 <br />
 
 <h2>In-game Clips:</h2>
